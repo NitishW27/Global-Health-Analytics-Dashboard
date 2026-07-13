@@ -66,6 +66,11 @@ Global-Health-Analytics-Dashboard/
 ## 📊 Dashboard Preview
 
 > Add screenshots of your dashboard here.
+> <img width="958" height="502" alt="image" src="https://github.com/user-attachments/assets/ac45c5ee-4127-4cc9-98ec-332a6deb2cef" />
+<img width="952" height="425" alt="image" src="https://github.com/user-attachments/assets/aad38eee-1009-4f2e-bbc0-5cf6c9ae38ec" />
+<img width="809" height="244" alt="image" src="https://github.com/user-attachments/assets/7a5ffa6a-d6b9-4fa7-92ee-b62788c66c1d" />
+
+
 
 Example:
 
@@ -92,16 +97,16 @@ The dashboard uses publicly available global health data containing multiple hea
 
 Example information to include:
 
-- Source: *(WHO / World Bank / Our World in Data / etc.)*
+- Source: WHO
 - Geographic coverage: Global
-- Time period: *(e.g. 2000–2023)*
+- Time period: (2000–2023)
 - Indicators analysed:
   - Life expectancy
   - Mortality rates
   - Healthcare expenditure
   - Population statistics
   - Disease prevalence
-  - *(Add your own)*
+ 
 
 ---
 
@@ -166,7 +171,7 @@ Master of Data Science & Decisions
 UNSW Sydney
 
 - GitHub: https://github.com/NitishW27
-- LinkedIn: *(Add your LinkedIn URL)*
+- LinkedIn: https://www.linkedin.com/in/nitish-prasad-wadpally-08819a216/
 
 ---
 
