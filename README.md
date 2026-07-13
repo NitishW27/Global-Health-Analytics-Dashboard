@@ -68,7 +68,8 @@ Global-Health-Analytics-Dashboard/
 > Add screenshots of your dashboard here.
 > <img width="958" height="502" alt="image" src="https://github.com/user-attachments/assets/ac45c5ee-4127-4cc9-98ec-332a6deb2cef" />
 <img width="952" height="425" alt="image" src="https://github.com/user-attachments/assets/aad38eee-1009-4f2e-bbc0-5cf6c9ae38ec" />
-<img width="809" height="244" alt="image" src="https://github.com/user-attachments/assets/7a5ffa6a-d6b9-4fa7-92ee-b62788c66c1d" />
+<img width="959" height="404" alt="image" src="https://github.com/user-attachments/assets/4703bbdf-92a2-4a6a-9d9e-69f4eeb134ed" />
+
 
 
 
