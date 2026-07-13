@@ -65,30 +65,16 @@ Global-Health-Analytics-Dashboard/
 
 ## 📊 Dashboard Preview
 
-> Add screenshots of your dashboard here.
-> <img width="958" height="502" alt="image" src="https://github.com/user-attachments/assets/ac45c5ee-4127-4cc9-98ec-332a6deb2cef" />
+<img width="958" height="502" alt="image" src="https://github.com/user-attachments/assets/ac45c5ee-4127-4cc9-98ec-332a6deb2cef" />
 <img width="952" height="425" alt="image" src="https://github.com/user-attachments/assets/aad38eee-1009-4f2e-bbc0-5cf6c9ae38ec" />
 <img width="959" height="404" alt="image" src="https://github.com/user-attachments/assets/4703bbdf-92a2-4a6a-9d9e-69f4eeb134ed" />
 
 
 
+![Dashboard Home](<img width="958" height="502" alt="image" src="https://github.com/user-attachments/assets/ac45c5ee-4127-4cc9-98ec-332a6deb2cef" />)
 
-Example:
+![Country Comparison](<img width="952" height="425" alt="image" src="https://github.com/user-attachments/assets/aad38eee-1009-4f2e-bbc0-5cf6c9ae38ec" />)
 
-```
-images/
-    dashboard-home.png
-    country-comparison.png
-    trend-analysis.png
-```
-
-Then display them:
-
-![Dashboard Home](images/dashboard-home.png)
-
-![Country Comparison](images/country-comparison.png)
-
-![Trend Analysis](images/trend-analysis.png)
 
 ---
 
